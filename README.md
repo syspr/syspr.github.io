@@ -1,2 +1,1 @@
-# syspr.github.io
-Official website
+# syspr.github
